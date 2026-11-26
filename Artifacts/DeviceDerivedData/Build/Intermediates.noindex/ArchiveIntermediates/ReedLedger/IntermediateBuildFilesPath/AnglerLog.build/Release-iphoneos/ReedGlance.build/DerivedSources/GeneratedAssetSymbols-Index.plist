@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Resources/HarborArt.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameReedAccent</string>
+			<key>relativePath</key>
+			<string>./ReedAccent.colorset</string>
+			<key>swiftSymbol</key>
+			<string>reedAccent</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Resources/HarborArt.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACImageNameAtlas</string>
+			<key>relativePath</key>
+			<string>./atlas.imageset</string>
+			<key>swiftSymbol</key>
+			<string>atlas</string>
+		</dict>
+	</array>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

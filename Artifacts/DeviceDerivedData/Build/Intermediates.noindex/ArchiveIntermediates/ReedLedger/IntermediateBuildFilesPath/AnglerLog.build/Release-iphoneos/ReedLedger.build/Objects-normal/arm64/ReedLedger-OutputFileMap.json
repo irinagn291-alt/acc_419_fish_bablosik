@@ -1,0 +1,41 @@
+{
+  "" : {
+    "const-values" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary.swiftconstvalues",
+    "dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary.d",
+    "diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary.dia",
+    "emit-module-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary-emit-module.dia",
+    "pch" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedLedger-primary.swiftdeps"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/AnglerLog/CreelDesk.swift" : {
+    "index-unit-output-path" : "/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/CreelDesk.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/CreelDesk.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/CreelDesk.o"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/AnglerLog/HarborPages.swift" : {
+    "index-unit-output-path" : "/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/HarborPages.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/HarborPages.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/HarborPages.o"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/AnglerLog/ReedVault.swift" : {
+    "index-unit-output-path" : "/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedVault.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedVault.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/ReedVault.o"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/AnglerLog/TideBits.swift" : {
+    "index-unit-output-path" : "/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/TideBits.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/TideBits.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/TideBits.o"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/ReefWidget/WaterGlance.swift" : {
+    "index-unit-output-path" : "/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/WaterGlance.o",
+    "llvm-bc" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/WaterGlance.bc",
+    "object" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath/AnglerLog.build/Release-iphoneos/ReedLedger.build/Objects-normal/arm64/WaterGlance.o"
+  }
+}

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d entries with a location</key>
+	<string>%d Einträge mit Standort</string>
+	<key>A journal worth keeping</key>
+	<string>Ein Tagebuch für deine Fänge</string>
+	<key>Activity</key>
+	<string>Aktivität</string>
+	<key>Add a few details to your fishing journal.</key>
+	<string>Ergänze ein paar Details in deinem Angeltagebuch.</string>
+	<key>Add entries to discover your patterns.</key>
+	<string>Füge Einträge hinzu, um Muster zu erkennen.</string>
+	<key>Add first entry</key>
+	<string>Ersten Eintrag hinzufügen</string>
+	<key>All lures</key>
+	<string>Alle Köder</string>
+	<key>All species</key>
+	<string>Alle Arten</string>
+	<key>All weather</key>
+	<string>Jedes Wetter</string>
+	<key>Angler Log</key>
+	<string>Angler Log</string>
+	<key>Backups include photos, coordinates and weather. Share them only with people you choose.</key>
+	<string>Sicherungen enthalten Fotos, Koordinaten und Wetter. Teile sie nur mit ausgewählten Personen.</string>
+	<key>Before the weekend</key>
+	<string>Vor dem Wochenende</string>
+	<key>Cached weather</key>
+	<string>Gespeichertes Wetter</string>
+	<key>Cancel</key>
+	<string>Abbrechen</string>
+	<key>Catch card saved to Photos.</key>
+	<string>Fangkarte in Fotos gespeichert.</string>
+	<key>Catch details</key>
+	<string>Fangdetails</string>
+	<key>Catch map</key>
+	<string>Fangkarte</string>
+	<key>Catch photo</key>
+	<string>Fangfoto</string>
+	<key>Choose a gentle prompt to record your catch or prepare for the weekend. Notifications are requested only when you enable a reminder.</key>
+	<string>Wähle eine Erinnerung für dein Tagebuch oder das Wochenende. Die Erlaubnis wird erst beim Aktivieren angefragt.</string>
+	<key>Choose location</key>
+	<string>Standort wählen</string>
+	<key>Choose on offline map</key>
+	<string>Auf Offline-Karte wählen</string>
+	<key>Choose photo</key>
+	<string>Foto auswählen</string>
+	<key>Clear</key>
+	<string>Klar</string>
+	<key>Cloudy</key>
+	<string>Bewölkt</string>
+	<key>Could not open this photo. Choose another image.</key>
+	<string>Dieses Foto lässt sich nicht öffnen. Wähle ein anderes.</string>
+	<key>Could not prepare the export.</key>
+	<string>Export konnte nicht erstellt werden.</string>
+	<key>Could not save on this device. Please free storage and try again.</key>
+	<string>Speichern fehlgeschlagen. Gib Speicherplatz frei und versuche es erneut.</string>
+	<key>Could not save the card to Photos.</key>
+	<string>Fangkarte konnte nicht in Fotos gespeichert werden.</string>
+	<key>Could not schedule reminders.</key>
+	<string>Erinnerungen konnten nicht geplant werden.</string>
+	<key>Counts describe your journal, not a prediction of future catches.</key>
+	<string>Die Zahlen beschreiben dein Tagebuch und sagen keine Fänge voraus.</string>
+	<key>Daily journal reminder</key>
+	<string>Tägliche Tagebucherinnerung</string>
+	<key>Date</key>
+	<string>Datum</string>
+	<key>Date &amp; time</key>
+	<string>Datum und Uhrzeit</string>
+	<key>Delete entry</key>
+	<string>Eintrag löschen</string>
+	<key>Delete this entry?</key>
+	<string>Diesen Eintrag löschen?</string>
+	<key>Done</key>
+	<string>Fertig</string>
+	<key>Edit</key>
+	<string>Bearbeiten</string>
+	<key>Edit and save with online weather enabled to retry for this entry’s date.</key>
+	<string>Bearbeite und speichere mit aktiviertem Online-Wetter, um das Wetter erneut abzurufen.</string>
+	<key>Edit entry</key>
+	<string>Eintrag bearbeiten</string>
+	<key>Enter latitude −90…90 and longitude −180…180, or leave both empty.</key>
+	<string>Breite −90…90 und Länge −180…180 eingeben oder beide Felder leer lassen.</string>
+	<key>Entries</key>
+	<string>Einträge</string>
+	<key>Entry saved without weather. Open it later to retry the snapshot.</key>
+	<string>Eintrag ohne Wetter gespeichert. Öffne ihn später für einen neuen Versuch.</string>
+	<key>Entry unavailable</key>
+	<string>Eintrag nicht verfügbar</string>
+	<key>Every catch
+has a story.</key>
+	<string>Jeder Fang
+hat eine Geschichte.</string>
+	<key>Export &amp; backup</key>
+	<string>Export und Sicherung</string>
+	<key>Export journal as CSV</key>
+	<string>Tagebuch als CSV exportieren</string>
+	<key>Fetch weather automatically</key>
+	<string>Wetter automatisch abrufen</string>
+	<key>Field notes</key>
+	<string>Feldnotizen</string>
+	<key>Finding location…</key>
+	<string>Standort wird ermittelt…</string>
+	<key>Fish</key>
+	<string>Fische</string>
+	<key>Fish logged</key>
+	<string>Erfasste Fische</string>
+	<key>Fish this month</key>
+	<string>Fische diesen Monat</string>
+	<key>Fishing place</key>
+	<string>Angelplatz</string>
+	<key>Fishing weather</key>
+	<string>Angelwetter</string>
+	<key>Fog</key>
+	<string>Nebel</string>
+	<key>Friday preparation</key>
+	<string>Freitagsvorbereitung</string>
+	<key>Journal</key>
+	<string>Tagebuch</string>
+	<key>Journal could not be read. Export or restore your backup before changing data.</key>
+	<string>Tagebuch nicht lesbar. Exportiere oder stelle eine Sicherung wieder her, bevor du Daten änderst.</string>
+	<key>Journal synced with your private iCloud.</key>
+	<string>Tagebuch mit deiner privaten iCloud synchronisiert.</string>
+	<key>Last weather</key>
+	<string>Letztes Wetter</string>
+	<key>Latitude</key>
+	<string>Breitengrad</string>
+	<key>Length (cm)</key>
+	<string>Länge (cm)</string>
+	<key>Location is off. You can enter a point manually.</key>
+	<string>Standort deaktiviert. Du kannst Koordinaten eingeben.</string>
+	<key>Location unavailable. Enter coordinates or choose a point on the map.</key>
+	<string>Standort nicht verfügbar. Gib Koordinaten ein oder wähle einen Kartenpunkt.</string>
+	<key>Location, camera and photos are optional. You can type a place and coordinates, and keep entries without a photo or weather.</key>
+	<string>Standort, Kamera und Fotos sind optional. Du kannst Ort und Koordinaten eingeben und Einträge ohne Foto oder Wetter speichern.</string>
+	<key>Log a catch</key>
+	<string>Fang eintragen</string>
+	<key>Log your first catch. A place, a lure and a few details are all you need. Everything stays available offline.</key>
+	<string>Trage deinen ersten Fang ein. Ein Ort, ein Köder und ein paar Details genügen. Alles bleibt offline verfügbar.</string>
+	<key>Longitude</key>
+	<string>Längengrad</string>
+	<key>Lure</key>
+	<string>Köder</string>
+	<key>Lure performance</key>
+	<string>Köderstatistik</string>
+	<key>Map</key>
+	<string>Karte</string>
+	<key>Map data · Natural Earth · Public domain</key>
+	<string>Kartendaten · Natural Earth · Gemeinfrei</string>
+	<key>Model weather</key>
+	<string>Modellwetter</string>
+	<key>New entry</key>
+	<string>Neuer Eintrag</string>
+	<key>Next month</key>
+	<string>Nächster Monat</string>
+	<key>No ads, purchases, analytics or tracking. The journal and photos are stored locally. iCloud sync uses your private database only when enabled. Weather requests share coordinates with Open-Meteo. Exports leave the app only through your chosen destination.</key>
+	<string>Keine Werbung, Käufe, Analyse oder Verfolgung. Tagebuch und Fotos bleiben lokal. iCloud nutzt nur nach Aktivierung deine private Datenbank. Wetteranfragen senden Koordinaten an Open-Meteo. Exporte verlassen die App nur über dein gewähltes Ziel.</string>
+	<key>No entries yet</key>
+	<string>Noch keine Einträge</string>
+	<key>No location</key>
+	<string>Kein Standort</string>
+	<key>No weather snapshot</key>
+	<string>Kein Wetter gespeichert</string>
+	<key>Notes</key>
+	<string>Notizen</string>
+	<key>Notes are limited to 12,000 characters.</key>
+	<string>Notizen sind auf 12.000 Zeichen begrenzt.</string>
+	<key>Notifications are off. Enable them in system Settings.</key>
+	<string>Mitteilungen deaktiviert. Aktiviere sie in den Systemeinstellungen.</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Offline atlas · Natural Earth</key>
+	<string>Offline-Atlas · Natural Earth</string>
+	<key>Open the app and fetch weather at a fishing point.</key>
+	<string>Öffne die App und rufe Wetter für einen Angelplatz ab.</string>
+	<key>Optional private sync. An Apple account is required; local use needs no account.</key>
+	<string>Optionale private Synchronisierung. Ein Apple Account wird benötigt; lokal ist kein Konto nötig.</string>
+	<key>Patterns from your own water</key>
+	<string>Muster aus deinen Gewässern</string>
+	<key>Photo access is off. Use Share to save the card elsewhere.</key>
+	<string>Fotozugriff deaktiviert. Speichere die Karte über Teilen an einem anderen Ort.</string>
+	<key>Place</key>
+	<string>Ort</string>
+	<key>Place name (optional)</key>
+	<string>Ortsname (optional)</string>
+	<key>Previous month</key>
+	<string>Vorheriger Monat</string>
+	<key>Privacy &amp; sources</key>
+	<string>Datenschutz und Quellen</string>
+	<key>Private iCloud</key>
+	<string>Private iCloud</string>
+	<key>Rain</key>
+	<string>Regen</string>
+	<key>Refresh latest weather</key>
+	<string>Aktuelles Wetter abrufen</string>
+	<key>Remember your catch</key>
+	<string>Denk an deinen Fang</string>
+	<key>Reminders</key>
+	<string>Erinnerungen</string>
+	<key>Remove photo</key>
+	<string>Foto entfernen</string>
+	<key>Remove weather</key>
+	<string>Wetter entfernen</string>
+	<key>Restore backup</key>
+	<string>Sicherung wiederherstellen</string>
+	<key>Review your tackle and refresh the latest weather before heading out.</key>
+	<string>Prüfe deine Ausrüstung und aktualisiere das Wetter vor dem Aufbruch.</string>
+	<key>Save</key>
+	<string>Speichern</string>
+	<key>Save card to Photos</key>
+	<string>Karte in Fotos speichern</string>
+	<key>Save complete backup</key>
+	<string>Vollständige Sicherung speichern</string>
+	<key>Saving…</key>
+	<string>Wird gespeichert…</string>
+	<key>Search species, lure or place</key>
+	<string>Art, Köder oder Ort suchen</string>
+	<key>Season map</key>
+	<string>Saisonkarte</string>
+	<key>Share annual report</key>
+	<string>Jahresbericht teilen</string>
+	<key>Share catch card</key>
+	<string>Fangkarte teilen</string>
+	<key>Showers</key>
+	<string>Schauer</string>
+	<key>Sign in to iCloud in Settings to sync. Your journal stays on this device.</key>
+	<string>Melde dich in den Einstellungen bei iCloud an. Dein Tagebuch bleibt auf diesem Gerät.</string>
+	<key>Snow</key>
+	<string>Schnee</string>
+	<key>Species</key>
+	<string>Arten</string>
+	<key>Species and lure names allow 120 characters; place names allow 240.</key>
+	<string>Arten- und Ködernamen erlauben 120 Zeichen, Ortsnamen 240.</string>
+	<key>Species calendar</key>
+	<string>Artenkalender</string>
+	<key>Sync journal with iCloud</key>
+	<string>Tagebuch mit iCloud synchronisieren</string>
+	<key>Sync now</key>
+	<string>Jetzt synchronisieren</string>
+	<key>Take photo</key>
+	<string>Foto aufnehmen</string>
+	<key>Tap the atlas to choose a point</key>
+	<string>Tippe auf den Atlas, um einen Punkt zu wählen</string>
+	<key>This backup could not be restored. Choose an Angler Log JSON backup.</key>
+	<string>Diese Sicherung lässt sich nicht wiederherstellen. Wähle eine Angler Log JSON-Sicherung.</string>
+	<key>Thunderstorm</key>
+	<string>Gewitter</string>
+	<key>Time</key>
+	<string>Uhrzeit</string>
+	<key>Tools</key>
+	<string>Werkzeuge</string>
+	<key>Use current location</key>
+	<string>Aktuellen Standort verwenden</string>
+	<key>Use zero fish to record a quiet outing. Weight and length describe the largest fish.</key>
+	<string>Mit null Fischen erfasst du einen ruhigen Ausflug. Gewicht und Länge beschreiben den größten Fisch.</string>
+	<key>Weather</key>
+	<string>Wetter</string>
+	<key>Weather snapshot</key>
+	<string>Wetteraufnahme</string>
+	<key>Weather unavailable. Your entry can be saved without it.</key>
+	<string>Wetter nicht verfügbar. Der Eintrag kann ohne Wetter gespeichert werden.</string>
+	<key>Weight (kg)</key>
+	<string>Gewicht (kg)</string>
+	<key>When enabled, coordinates and date are sent to Open-Meteo to attach model weather to new entries. Saved snapshots never change. Without a connection you can still save.</key>
+	<string>Wenn aktiviert, werden Koordinaten und Datum für Modellwetter an Open-Meteo gesendet. Gespeichertes Wetter bleibt unverändert. Du kannst auch ohne Verbindung speichern.</string>
+	<key>World atlas with saved coordinates. Coastlines and borders only; no detailed navigation charts.</key>
+	<string>Weltatlas mit gespeicherten Koordinaten. Nur Küsten und Grenzen, keine detaillierten Navigationskarten.</string>
+	<key>YOUR WATER. YOUR STORY.</key>
+	<string>DEIN WASSER. DEINE GESCHICHTE.</string>
+	<key>Year</key>
+	<string>Jahr</string>
+	<key>Year in review</key>
+	<string>Jahresrückblick</string>
+	<key>Your iCloud account changed. Enable sync again to share this local journal with the new account.</key>
+	<string>Dein iCloud Account hat sich geändert. Aktiviere die Synchronisierung erneut, um dieses lokale Tagebuch mit dem neuen Account zu teilen.</string>
+	<key>Your journal is saved on this device.</key>
+	<string>Dein Tagebuch wird auf diesem Gerät gespeichert.</string>
+	<key>Your journal, weather and fishing patterns, available offline.</key>
+	<string>Dein Tagebuch, Wetter und Fangmuster, auch offline.</string>
+	<key>Your places, always available</key>
+	<string>Deine Orte, immer verfügbar</string>
+	<key>iCloud is unavailable in this build. Your journal stays on this device.</key>
+	<string>iCloud ist in dieser Version nicht verfügbar. Dein Tagebuch bleibt auf diesem Gerät.</string>
+	<key>iCloud is unavailable. Local entries are safe; try again later.</key>
+	<string>iCloud nicht verfügbar. Lokale Einträge sind sicher; versuche es später erneut.</string>
+</dict>
+</plist>

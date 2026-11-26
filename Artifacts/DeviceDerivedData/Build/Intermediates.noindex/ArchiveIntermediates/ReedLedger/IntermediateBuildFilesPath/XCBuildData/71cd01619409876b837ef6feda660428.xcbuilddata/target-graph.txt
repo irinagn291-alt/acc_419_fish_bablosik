@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'ReedLedger' in project 'AnglerLog'
+➜ Explicit dependency on target 'ReedGlance' in project 'AnglerLog'
+Target 'ReedGlance' in project 'AnglerLog' (no dependencies)

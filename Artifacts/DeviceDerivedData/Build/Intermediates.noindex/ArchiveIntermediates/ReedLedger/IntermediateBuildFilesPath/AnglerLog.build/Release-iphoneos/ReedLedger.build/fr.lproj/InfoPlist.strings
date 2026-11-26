@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Photographiez votre prise pour la conserver dans le carnet.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Enregistrez le lieu de pêche et récupérez sa météo si vous le souhaitez.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Conservez une fiche de prise dans Photos à votre demande.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Choisissez une photo de prise pour votre carnet privé.</string>
+</dict>
+</plist>

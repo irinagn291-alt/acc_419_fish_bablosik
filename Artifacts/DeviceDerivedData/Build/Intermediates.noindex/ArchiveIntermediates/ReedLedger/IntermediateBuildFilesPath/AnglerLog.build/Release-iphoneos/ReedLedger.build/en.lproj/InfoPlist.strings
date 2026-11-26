@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Photograph your catch to keep the image with a journal entry.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Save the fishing point and fetch weather for that point when you choose.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Keep a designed catch card in Photos when you tap Save card.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Pick a catch photo to attach to your private fishing journal.</string>
+</dict>
+</plist>

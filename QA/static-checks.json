@@ -1,0 +1,15 @@
+{
+  "authoredSwiftFiles": 6,
+  "offlineTiles": 341,
+  "translatedKeys": 140,
+  "locales": [
+    "en",
+    "de",
+    "fr",
+    "es"
+  ],
+  "privacyKeys": 4,
+  "uniqueProjectUUIDs": 64,
+  "projectPathsClean": true,
+  "iconSHA256": "731c1be4f2c70b33deba180fc1c1a820e9a8c1d98f7f77187632f5df2aab9cf8"
+}

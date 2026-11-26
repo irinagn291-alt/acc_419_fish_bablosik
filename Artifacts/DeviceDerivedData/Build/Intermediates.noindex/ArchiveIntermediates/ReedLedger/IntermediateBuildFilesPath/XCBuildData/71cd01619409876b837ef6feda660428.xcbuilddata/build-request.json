@@ -1,0 +1,87 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "d2039b7acaccefb9fc697cde656518e4bb1ab8dfe91b60d18b9f6d4a12c68424"
+    }
+  ],
+  "containerPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/AnglerLog.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "undefined_arch",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "hostTargetedPlatform" : null,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos27.2",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "undefined_arch"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Products",
+      "derivedDataPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData",
+      "indexDataStoreFolderPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "CODE_SIGNING_ALLOWED" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/InstallationBuildProductsLocation/OnDemandResources",
+          "ASSETCATALOG_COMPILER_FLATTENED_APP_ICON_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath/ProductIcon.png",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_SIGNATURE_AGGREGATION" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/PrecompiledHeaders",
+          "SIGNATURE_METADATA_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath/Signatures",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.Metal.32023.922.4 $(inherited)",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/belzephyrus/Documents/gambling_factory/output/concepts15nov/20_big_bass/02_angler_log/Artifacts/DeviceDerivedData/Build/Intermediates.noindex/ArchiveIntermediates/ReedLedger/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "archive",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

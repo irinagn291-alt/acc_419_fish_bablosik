@@ -1,0 +1,29 @@
+{
+  "phase": "waiting_for_factory_simulator_slot",
+  "active_exec_session": 89577,
+  "phone_pool_log": "QA/iphone-verified-pool.log",
+  "ipad_pool_log": "QA/ipad-verified-pool.log",
+  "device_runner": "QA/run-device.sh",
+  "notes": [
+    "The first phone test compile attempt failed due to lastMatch and is archived under QA/attempts; the test was fixed.",
+    "The active phone pool command will run the latest script after acquiring the shared lock.",
+    "Phone QA saves evidence and shuts down the owned phone, then uses a nested pool helper for the iPad under the already-owned foreground QA lock.",
+    "The separate original iPad queue request (exec session 63474, verified PID 91597) was cancelled before acquiring a device.",
+    "Each device runner keeps a failed session alive for up to 300 seconds for a repair. Inspect tests.log, fix source, then touch QA/<kind>-verified/retry-request. At most two retries; retry results/logs get -retryN suffixes.",
+    "After both suites pass, run Tools/collect_qa.py, inspect real screenshots with view_image, check exported CSV/PDF, update REPORT.md, and perform the final archive build.",
+    "Run Tools/package.py after the final archive to neutralize toolchain dSYM module-cache paths and refresh the portable source zip and hashes.",
+    "REPORT.md is deliberately pending simulator results; do not present it as complete yet. CloudKit across signed devices and physical camera/GPS remain unverified environment requirements.",
+    "Latest source changes after the last archive: explicit SwiftUI scene manifest and minor debug screenshot harness/test improvements. Rebuild the final archive after QA.",
+    "The latest candidate includes separate CKAsset photos, CloudKit account-change re-consent, monotonic local edits and queued re-sync, fresh-cache merge ordering, background/foreground weather from the latest saved point, GPS cancellation/validation, sheet-visible notices, photo re-selection and strict visible input limits.",
+    "Long PDF notes paginate through TextKit; qReport and qJPEG now live in ReedVault.swift so the existing UI-test target can exercise them without adding Swift files.",
+    "Dark accent colors and the icon lure were added. The device script also saves dark-journal.png and dark-widget-families.png.",
+    "Still waiting for the active phone pool process. Do not launch another independent duplicate job; it automatically runs the iPad through the same owned foreground QA operation after the phone."
+  ],
+  "test_methods": 11,
+  "localized_keys": 140,
+  "project_uuid_objects": 64,
+  "current_release_build": "passed_without_warnings",
+  "release_result_bundle": "QA/ReleaseArchive.xcresult",
+  "current_app_typecheck": "passed",
+  "current_test_typecheck": "passed"
+}

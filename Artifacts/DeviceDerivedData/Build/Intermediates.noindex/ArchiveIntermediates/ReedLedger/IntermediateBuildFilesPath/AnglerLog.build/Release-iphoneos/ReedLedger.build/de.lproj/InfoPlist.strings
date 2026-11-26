@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCameraUsageDescription</key>
+	<string>Fotografiere deinen Fang, um das Bild im Tagebuch zu behalten.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Speichere deinen Angelplatz und rufe auf Wunsch das Wetter dort ab.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Speichere eine gestaltete Fangkarte in Fotos, wenn du dies auswählst.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Wähle ein Fangfoto für dein privates Angeltagebuch.</string>
+</dict>
+</plist>

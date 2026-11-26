@@ -1,0 +1,28 @@
+{
+  "ageRating": "4+",
+  "price": "Free",
+  "en": {
+    "name": "FIsh Bablosik",
+    "subtitle": "Your fishing field journal",
+    "keywords": "fishing log,catch tracker,fishing diary,lure,fish,angler,journal,offline,map,weather",
+    "description": "Keep a private record of every fishing outing. Log species, lure, count, largest weight and length, a place, notes and a catch photo. Save exact coordinates by hand, on the built-in offline atlas, or with optional location access. Enable optional Open-Meteo model weather snapshots for the catch date. Explore your own species calendar and lure statistics. Export CSV, a complete JSON backup, a catch card or an annual PDF report. Home Screen and Lock Screen widgets read local cached information with timestamps. Choose a file to open, or send a copy directly to someone. Changes stay on this device until you share again. No purchases, subscriptions, ads or tracking. The atlas shows coastlines and borders and is not a detailed navigation chart."
+  },
+  "de": {
+    "name": "FIsh Bablosik",
+    "subtitle": "Dein privates Angeltagebuch",
+    "keywords": "angeltagebuch,fangbuch,köder,fische,angeln,wetter,karte,offline,fangstatistik",
+    "description": "Halte deine Angelausflüge privat fest: Fischart, Köder, Anzahl, Gewicht, Länge, Ort, Notizen und Foto. Wähle Koordinaten manuell, auf dem Offline-Atlas oder per Standortfreigabe. Optional ergänzt Open-Meteo das Modellwetter zum Fangdatum. Entdecke Artenkalender und Köderstatistiken. Exportiere CSV, JSON-Sicherungen, Fangkarten und einen jährlichen PDF-Bericht. Widgets zeigen lokale Daten mit Zeitstempel. Öffne eine Datei oder sende jemandem direkt eine Kopie. Änderungen bleiben bis zur nächsten Freigabe auf diesem Gerät. Keine Werbung, Käufe oder Abonnements. Der Atlas zeigt Küsten und Grenzen und dient nicht der Navigation."
+  },
+  "fr": {
+    "name": "FIsh Bablosik",
+    "subtitle": "Votre carnet de pêche privé",
+    "keywords": "carnet pêche,prises,leurre,poisson,pêcheur,journal,carte,météo,hors ligne",
+    "description": "Conservez un souvenir privé de vos sorties : espèce, leurre, nombre, poids, longueur, lieu, notes et photo. Choisissez les coordonnées manuellement, sur l’atlas hors ligne ou via la localisation facultative. Ajoutez la météo modélisée Open-Meteo à la date de la prise. Consultez le calendrier des espèces et les résultats par leurre. Exportez CSV, sauvegarde JSON, fiche de prise et bilan annuel PDF. Les widgets utilisent les données locales horodatées. Ouvrez un fichier ou envoyez une copie directement à un proche. Les modifications restent sur cet appareil jusqu’au prochain partage. Sans publicité, achat ni abonnement. L’atlas montre les côtes et frontières et ne sert pas à naviguer."
+  },
+  "es": {
+    "name": "FIsh Bablosik",
+    "subtitle": "Tu diario privado de pesca",
+    "keywords": "diario pesca,capturas,señuelo,pez,pescador,registro,mapa,tiempo,sin conexión",
+    "description": "Conserva tus salidas de pesca en privado: especie, señuelo, cantidad, peso, longitud, lugar, notas y foto. Introduce coordenadas, elige un punto en el atlas sin conexión o usa la ubicación opcional. Añade tiempo modelizado de Open-Meteo para la fecha de captura. Explora el calendario de especies y resultados por señuelo. Exporta CSV, copia JSON, ficha de captura e informe anual PDF. Los widgets muestran datos locales con fecha. Abre un archivo o envía una copia directamente. Los cambios quedan en este dispositivo hasta que vuelvas a compartirlos. Sin anuncios, compras ni suscripciones. El atlas muestra costas y fronteras y no sirve para navegar."
+  }
+}

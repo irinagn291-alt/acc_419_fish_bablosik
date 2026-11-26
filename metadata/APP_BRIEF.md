@@ -1,4 +1,4 @@
-<!-- gf-brief source=285bb3c3d30fb4f5e00276e1df3be40616e4f1b0aaa0faf317b41e293f5896b0 written=2026-11-26T03:49:06+03:00 -->
+<!-- gf-brief source=7fb640317138a5f3a1c8b74a26c3355888098309f78dfff83bd600477e72e76f written=2026-11-26T03:49:58+03:00 -->
 # FIsh Bablosik
 
 ## What it is

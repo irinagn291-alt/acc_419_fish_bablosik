@@ -51,9 +51,25 @@ func qCSV(_ rows:[rE])->String {
  func e(_ s:String)->String { "\"" + s.replacingOccurrences(of:"\"",with:"\"\"") + "\"" }
  let f=ISO8601DateFormatter()
  let header=["Date","Species","Lure","Place","Fish","Weight kg","Length cm","Latitude","Longitude","Weather date","Temperature C","Wind km/h","Pressure hPa","Rain mm","Notes","Weather source","Weather license"]
- return ([header.map(e).joined(separator:",")] + rows.map { r in
- [f.string(from:r.at),r.species,r.lure,r.place,String(r.count),String(r.kg),String(r.cm),r.lat.map{String($0)} ?? "",r.lon.map{String($0)} ?? "",r.weather.map{f.string(from:$0.at)} ?? "",r.weather.map{String($0.temp)} ?? "",r.weather.map{String($0.wind)} ?? "",r.weather.map{String($0.pressure)} ?? "",r.weather.map{String($0.rain)} ?? "",r.note,r.weather == nil ? "":"MET Norway / NASA POWER",r.weather == nil ? "":"https://creativecommons.org/licenses/by/4.0/"].map(e).joined(separator:",")
- }).joined(separator:"\r\n")
+ let headerLine = header.map(e).joined(separator: ",")
+ let rowLines: [String] = rows.map { r in
+ let latitude = r.lat.map { String($0) } ?? ""
+ let longitude = r.lon.map { String($0) } ?? ""
+ let weatherDate = r.weather.map { f.string(from: $0.at) } ?? ""
+ let temperature = r.weather.map { String($0.temp) } ?? ""
+ let wind = r.weather.map { String($0.wind) } ?? ""
+ let pressure = r.weather.map { String($0.pressure) } ?? ""
+ let rain = r.weather.map { String($0.rain) } ?? ""
+ let fields: [String] = [
+ f.string(from: r.at), r.species, r.lure, r.place, String(r.count),
+ String(r.kg), String(r.cm), latitude, longitude, weatherDate,
+ temperature, wind, pressure, rain, r.note,
+ r.weather == nil ? "" : "MET Norway / NASA POWER",
+ r.weather == nil ? "" : "https://creativecommons.org/licenses/by/4.0/"
+ ]
+ return fields.map(e).joined(separator: ",")
+ }
+ return ([headerLine] + rowLines).joined(separator: "\r\n")
 }
 struct rAtlas:View {
  var rows:[rE]
